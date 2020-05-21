@@ -1,6 +1,7 @@
 # SpringBoot高级
 
-  SpringBoot高级内容摘要:
+  SpringBoot高级
+  内容摘要:
 
     一、Spring Boot与缓存
     
@@ -18,23 +19,3 @@
     
     八、Spring Boot与部署
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
