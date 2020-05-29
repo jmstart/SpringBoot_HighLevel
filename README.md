@@ -11,10 +11,3 @@
     四、Spring Boot与任务
     
     五、Spring Boot与安全
-    
-    六、Spring Boot与分布式
-    
-    七、Spring Boot与监控管理
-    
-    八、Spring Boot与部署
-  
